@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "MLBase"
-version = "0.0.7"
+version = "0.0.1"
 description = "MLBase "
 readme = "README.md"
 authors = [
@@ -18,7 +18,7 @@ classifiers = [
     "Natural Language :: Indonesian",
     "Topic :: Text Processing :: Linguistic",
 ]
-requires-python = ">=3.6"
+requires-python = ">=3.9"
 dependencies = [
     "nltk>=3.6.0",
     "pandas>=1.0.0",
